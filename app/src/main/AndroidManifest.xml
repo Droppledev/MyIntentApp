@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MoveActivity" />
-        <activity android:name=".MoveWithDataActivity"></activity>
+        <activity android:name=".MoveWithDataActivity" />
+        <activity android:name=".MoveWithObjectActivity"></activity>
     </application>
 
 </manifest>
